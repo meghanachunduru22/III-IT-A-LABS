@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+
+<userlist>
+
+<user>
+<userid>usr01</userid>
+<username>Meghana</username>
+<address>RTC X roads</address>
+<phone>8341995448</phone>
+<email>6345@bvrithyderabad.edu.in</email>
+</user>
+<user>
+<userid>usr02</userid>
+<username>Pooja</username>
+<address>Satyam heights</address>
+<phone>9440372261</phone>
+<email>345@bvrithyderabad.edu.in</email>
+</user>
+
+<user>
+<userid>usr03</userid>
+<username>abcd</username>
+<address>Kukatpally</address>
+<phone>9866666666</phone>
+<email>3453@bvrithyderabad.edu.in</email>
+</user>
+
+<user>
+<userid>usr04</userid>
+<username>efgh</username>
+<address>suryapet</address>
+<phone>9835994445</phone>
+<email>1784@bvrithyderabad.edu.in</email>
+</user>
+
+<user>
+<userid>usr05</userid>
+<username>ijkl</username>
+<address>Himayat Nagar</address>
+<phone>968877555</phone>
+<email>789@bvrithyderabad.edu.in</email>
+</user>
+
+ <user>
+<userid>usr06</userid>
+<username>mnop</username>
+<address>ESI</address>
+<phone>968875554</phone>
+<email>678@bvrithyderabad.edu.in</email>
+</user>
+
+ <user>
+<userid>usr07</userid>
+<username>qrst</username>
+<address>Shivam Road</address>
+<phone>968888554</phone>
+<email>567@bvrithyderabad.edu.in</email>
+</user>
+ <user>
+<userid>usr08</userid>
+<username>uvw</username>
+<address>ESI</address>
+<phone>968878554</phone>
+<email>456@bvrithyderabad.edu.in</email>
+</user>
+<user>
+<userid>usr09</userid>
+<username>xyz</username>
+<address>Bachupally</address>
+<phone>9688995541</phone>
+<email>234@bvrithyderabad.edu.in</email>
+</user>
+
+<user>
+<userid>usr10</userid>
+<username>ab12</username>
+<address>Shahpur</address>
+<phone>9088008554</phone>
+<email>123@bvrithyderabad.edu.in</email>
+</user>
+
+</userlist>
