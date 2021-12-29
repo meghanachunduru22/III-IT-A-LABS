@@ -1,0 +1,30 @@
+h1{
+    color:black;
+    text-align: center;
+    font-size: 60px;
+    text-shadow: 2px 2px 5px rgb(248, 245, 245);
+    margin-top: 20px;
+    
+}
+body{
+    background-image: url("Downloads/123.jpeg");
+
+    
+    height: 150%;
+  
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    font-size: 30px;
+    text-align: center;
+    color:rgb(248, 246, 246);
+
+    margin-right: 300px;
+    margin-left: 300px;
+    text-shadow: 2px 2px 5px rgb(14, 1, 1);
+    
+    
+      
+}
