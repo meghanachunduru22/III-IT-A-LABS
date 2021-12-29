@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <titl>Regular Expression</titl>
+    </head>
+    <body>
+        <script type="text/javascript">
+        function validation(){
+            var username = document.getElementById('uname').value
+            var regx = /^([A-Za-z0-9\.-]+)@([A-A-Za-z0-9\.-]+).([a-z]{2,8})(.[a-z]{2,8})?/g
+            if(regx.test(username)){
+                document.getElementById("lbuser").innerHTML="Valid Test"
+                document.getElementById("lbuser").style.visibility="visible"
+                document.getElementById("lbuser").style.color = "green"
+            }
+            else{
+                document.getElementById("lbuser").innerHTML="Invalid Text"
+                document.getElementById("lbuser").style.visibility="visible"
+                document.getElementById("lbuser").style.color="red"
+            }
+        }
+        </script>
+        <form action="login.html">
+            <input id = "uname" type="text" placeholder="text"/><br>
+            <label id = "lbuser" style="color: #ff0000; visibility: hidden;">Invalid Username</label><br>
+            <button onclick="validation()" type = "button">Submit</button>
+        </form>
+    </body>
+</html>
